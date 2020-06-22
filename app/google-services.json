@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909056693577",
+    "firebase_url": "https://vutu-ddf26.firebaseio.com",
+    "project_id": "vutu-ddf26",
+    "storage_bucket": "vutu-ddf26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909056693577:android:12cbf13e775f907c8af698",
+        "android_client_info": {
+          "package_name": "com.ashtray.vutu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909056693577-p1nsljfu4tig5sg0ni5sgaa9q83vjkr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashtray.vutu",
+            "certificate_hash": "82a435095a07e3e0e73cf8e07bcf8d96cf497a16"
+          }
+        },
+        {
+          "client_id": "909056693577-o3aqk5r6i6psti4jma87otl9am0fc0rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALxW9LU2SM5uRH5ewyEFFUVNbW9LmrglA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909056693577-o3aqk5r6i6psti4jma87otl9am0fc0rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
